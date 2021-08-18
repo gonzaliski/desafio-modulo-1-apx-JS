@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Forrest Gump",
+    "rating":8.8,
+    "tags": ["comedia","drama","tom hanks","premiada"],
+    "plataforma": "Netflix"
+  },
+
+  {
+    "title": "Parasite",
+    "rating":8.6,
+    "tags": ["suspenso","drama","humor negro","premiada"],
+    "plataforma": "Netflix"
+  },
+  {
+    "title": "Jaws",
+    "rating":7.1,
+    "tags": ["suspenso","terror","aventura","premiada"],
+    "plataforma": "Netflix"
+  },
+  {
+    "title": "Pulp Fiction",
+    "rating":8.9,
+    "tags": ["policiaco","Tarantino","violencia","premiada","john travolta","samuel jackson"],
+    "plataforma": "Netflix"
+  },
+  {
+    "title": "Inception",
+    "rating":8.8,
+    "tags": ["suspenso","drama","ciencia ficcion","premiada","accion","di caprio","nolan"],
+    "plataforma": "Netflix"
+  },
+  {
+    "title": "Un Argentino en Nueva York",
+    "rating":4.6,
+    "tags": ["comedia","francella","argentina"],
+    "plataforma": "-"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "rating":8.4,
+    "tags": ["superheroes","accion","aventura","ciencia ficcion","fantasia","disney"],
+    "plataforma": "Disneyplus"
+  },
+  {
+    "title": "Star Wars: episode 1 - The Phantom Menace ",
+    "rating":6.5,
+    "tags": ["accion","fantasia","ciencia ficcion", "aventura"],
+    "plataforma": "Disneyplus"
+  },
+  {
+    "title": "Relatos Salvajes",
+    "rating":8.1,
+    "tags": ["comedia","drama","suspenso", "humor negro", "argentina"],
+    "plataforma": "Youtube"
+  },
+  {
+    "title":"Spiderman: Into The Spiderverse",
+    "rating":8.4,
+    "tags": ["accion","aventura","ciencia ficcion", "superheroes"],
+    "plataforma": "Prime video"
+  },
+  {
+    "title": "The Purge",
+    "rating":5.7,
+    "tags": ["terror","suspenso","distopica"],
+    "plataforma": "Prime video"
+  }
+]
